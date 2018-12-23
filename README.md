@@ -2,7 +2,7 @@
 
 The project was developed in Android Studio using Java Library module and whole code can be found in `libJava` directory.
 
-Possible movies to guess can be found in `movies.txt`.
+Possible movies to guess can be found in [`movies.txt`](movies.txt).
 
 ### Description
 
