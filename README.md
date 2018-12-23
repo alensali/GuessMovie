@@ -1,6 +1,6 @@
 # GuessMovie
 
-The project was developed in Android Studio using Java Library module and whole code can be found in [`libJava`](libJava) directory.
+The project was developed in Android Studio using Java Library module and whole code can be found in [`libJava`](GuessMovie.java) directory.
 
 Possible movies to guess can be found in [`movies.txt`](movies.txt).
 
